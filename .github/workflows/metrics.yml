@@ -20,8 +20,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_followup: yes
-          plugin_achievements: yes
-          plugin_lines: yes
           filename: metrics.svg
           output_action: commit
           committer_branch: github-metrics
