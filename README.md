@@ -8,11 +8,7 @@
 
 ## About
 
-Pursuing B.Tech in Information Technology at Galgotias College of Engineering and Technology. Strong foundation in Data Structures and Algorithms, hands-on frontend development experience (React, JavaScript), and growing open-source footprint across production TypeScript and Java codebases. Currently exploring AI and emerging technologies, and open to internship opportunities.
-
-- **Focus:** Frontend development, open source, problem solving
-- **Learning:** AI/ML fundamentals, advanced TypeScript
-- **Looking for:** Internship opportunities — frontend or open-source friendly teams
+B.Tech IT student at Galgotias College of Engineering and Technology. Frontend developer building clean, user-friendly interfaces with React and JavaScript. Active open-source contributor across TypeScript and Java codebases, with strong DSA fundamentals. Open to internship opportunities.
 
 ## Open Source
 
